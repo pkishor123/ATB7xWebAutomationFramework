@@ -33,7 +33,7 @@
                     <configuration>
                         <suiteXmlFiles>
                             <suiteXmlFile>testng-qa.xml</suiteXmlFile>
-                            <suiteXmlFile>testng-qa-pom.xml</suiteXmlFile>>
+
                         </suiteXmlFiles>
                     </configuration>
                 </plugin>

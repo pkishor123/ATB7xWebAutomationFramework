@@ -2,6 +2,8 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="testng-qa">
     <test verbose="2" preserve-order="true" name="C:/Users/admin/IdeaProjects/ATB7xWebAutomationFramework">
+
+
         <classes>
             <class name="com.thetestingacademy.tests.sample.TestVWOLogin">
             </class>
